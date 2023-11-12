@@ -1,0 +1,15 @@
+[submodule "EdgarScraper"]
+	path = EdgarScraper
+	url = http://10.6.47.10:3002/sofraserv/EdgarScraper.git
+[submodule "iqflaskdocker"]
+	path = iqflaskdocker
+	url = http://10.6.47.10:3002/sofraserv/iqflaskdocker.git
+[submodule "TdQuoteFlaskDocker"]
+	path = TdQuoteFlaskDocker
+	url = http://10.6.47.10:3002/sofraserv/TdQuoteFlaskDocker.git
+[submodule "TdScannerReader"]
+	path = TdScannerReader
+	url = http://10.6.47.10:3002/sofraserv/TdScannerReader.git
+[submodule "TdStreams"]
+	path = TdStreams
+	url = http://10.6.47.10:3002/sofraserv/TdStreams.git
